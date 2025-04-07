@@ -1,2 +1,1 @@
-# sudo-tux
-bot
+# SudoTuxBot :D
